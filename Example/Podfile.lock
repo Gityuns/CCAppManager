@@ -1,0 +1,23 @@
+PODS:
+  - CCAppManager (0.1.0):
+    - MJExtension
+  - MJExtension (3.4.1)
+
+DEPENDENCIES:
+  - CCAppManager (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MJExtension
+
+EXTERNAL SOURCES:
+  CCAppManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCAppManager: 2988df527fb39c1721effe70d8cea9afea38d46d
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
+
+PODFILE CHECKSUM: 2dd550c078f8aaa011b3dcf6a04f3cd0006d6aae
+
+COCOAPODS: 1.11.3
